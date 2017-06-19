@@ -1,0 +1,13 @@
+ Address         Publics by Value
+
+ 0001:00054240       NesEncrypt
+ 0001:00054B80       NesDecrypt
+ 0001:00055150       NesKeySchedule
+ 0001:000552C0       EncryptNesCBC
+ 0001:000553E0       DecryptNesCBC
+ 0001:0005AB50       DS_EncryptNeatCBC
+ 0001:0005EA50       NesRoundEncrypt
+ 0001:000613D0       NesRoundDecrypt
+ 0001:00063D30       NesKeySchedule2
+
+Program entry point at 0001:0013DB86
